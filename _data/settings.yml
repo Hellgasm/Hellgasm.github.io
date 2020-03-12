@@ -3,7 +3,7 @@ google-ID: 'UA-112060364-1'
 social:
 - {icon: 'twitter', link: 'https://www.twitter.com/example'}
 - {icon: 'instagram', link: 'https://www.instagram.com/example'}
-- {icon: 'contact', link: '/page/contact.html'}
+- {icon: 'contact', link: 'mailto:example@example.com'}
 
 pagination:
   next_page: 'Newer'
