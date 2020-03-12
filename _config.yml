@@ -1,0 +1,24 @@
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+author:              'Hellgasm'
+
+# jekyll-paginate configuration
+title:		           'Hellgasm'
+description:	       'an another Blog'
+paginate:            4
+
+# jekyll-seo configuration
+social:
+  name: Your Name
+  links:
+    - https://www.twitter.com/example
+    - https://www.instagram.com/example
+    - https://www.dribbble.com/example
+
+twitter:
+  card: summary_large_image
